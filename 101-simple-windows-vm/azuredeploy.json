@@ -185,7 +185,7 @@
               "vhd": {
                 "Uri": "[variables('dataDisk1VhdName')]"
               },
-              "creationOption": "Empty"
+              "createOption": "Empty"
             }
           ]
         },
